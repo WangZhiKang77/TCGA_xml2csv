@@ -8,7 +8,7 @@
 ## Run
 * run from command line
 
-# generate txt with xml files
+### generate txt with xml files
 
 ```
 find . -name "*.xml" -type f > xml_files.txt
